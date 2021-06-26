@@ -1,0 +1,18 @@
+//ruta o metodo de prueba para el Api Rest
+/*app.get('/probando',(req,res)=>{
+    //podemos mandar esta lista para probar es decir devolver un resultado
+    /*return res.status(200).send(`
+        <ul>
+            <li>NodeJS</li>
+            <li>Angular</li>
+            <li>React</li>
+            <li>Vue</li>
+        </ul>
+    `);
+    //para devovler un archivo JSON
+    return res.status(200).send({
+        curso:'Master en framewors JS',
+        autor:'Jordy Quilachamin',
+        url:''
+    });
+})*/
