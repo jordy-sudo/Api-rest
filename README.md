@@ -1,7 +1,8 @@
 # Api-rest
 
 Backend
-Creación de un Backend bien detallado para entender la funcionalidad de las api y usando un modelo MVC
+Creación de un Backend bien detallado para entender 
+la funcionalidad de las api y usando un modelo MVC
 
 Comenzando 🚀
 para el uso de las apis se uso como dependencias
@@ -15,7 +16,8 @@ Tener MongoDb,VisualStudio,Robo3t,Postman
 
 Da un ejemplo
 Instalación 🔧
-para poder ejecutar el archivo dentro de este se creo una tarea para poder ejecutarce contantemente el 
+para poder ejecutar el archivo dentro de este se creo 
+una tarea para poder ejecutarce contantemente el 
 nodemomn
 "npm start"
 
