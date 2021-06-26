@@ -5,11 +5,11 @@ Creación de un Backend bien detallado para entender la funcionalidad de las api
 
 Comenzando 🚀
 para el uso de las apis se uso como dependencias
-"body-parser": "^1.19.0",
-"connect-multiparty": "^2.2.0",
-"express": "^4.17.1",
-"mongoose": "^5.12.14",
-"validator": "^13.6.0"
+"body-parser": "^1.19.0",\n
+"connect-multiparty": "^2.2.0",\n
+"express": "^4.17.1",\n
+"mongoose": "^5.12.14",\n
+"validator": "^13.6.0"\n
 Pre-requisitos 📋
 Tener MongoDb,VisualStudio,Robo3t,Postman
 
